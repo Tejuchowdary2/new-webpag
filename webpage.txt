@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body style="background-image:url('https://tse2.mm.bing.net/th?id=OIP.ki6BmyYny8fpk73KEyJHAQHaEo&pid=Api&P=0');">
+<title>about nature</title>
+<h1 style="color:purple;"><u>NATURE</h1></u>
+<p style="color:blue;">The Nature Theory: Genetics Those that support the nature theory believe that heredity determines not only a child’s physical traits but everything else as well. Children are born with a set of traits that is predetermined and not influenced by the environment around them.</p>
+
+<h2 style="font-family:verdana;">unordered list</h2>
+<ul>
+<li>greenary</li>
+<li>peace</li>
+</ul>
+<h2 style="font-family:verdana;">ordered list</h2>
+<ol>
+<li>life</li>
+<li>happiness</li>
+</ol>
+<h3>link to know</h3>
+<a href="https://in.search.yahoo.com/search?fr=mcafee&type=E211IN714G0&p=nature">KNOW ABOUT NATURE</a>
+</body>
+
+</html>
